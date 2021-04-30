@@ -11,8 +11,8 @@ The website was only hosted for one year. There were 3.880 unique users, 5.552 s
 - REMOVED: Google maps API for locating the events
 
 # Screenshots
-(Website does not contain accurate data)
-(Webiste is better with more data to show)
+(Website does not contain accurate data) <br />
+(Webiste is better with more data) <br />
 (Used pictures in screenshots are only placeholders)
 ![Screenshot of the website](https://raw.githubusercontent.com/nietjoost/Feestweekwestland.nl-Public/main/Screenshots/Feestweekwestland%20screenshot-1.png)
 ![Screenshot of the website](https://raw.githubusercontent.com/nietjoost/Feestweekwestland.nl-Public/main/Screenshots/Feestweekwestland%20screenshot-2.png)
