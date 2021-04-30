@@ -1,0 +1,17 @@
+.dorp-row {
+    background-color: #f9f6f5;
+}
+
+.col-md-4 {
+    @media screen and (max-width: 990px) {
+        margin: 0 15px;
+    }
+}
+
+.panel-default {
+    border: 2px solid $website-color;
+}
+
+.dorp-panel-default{
+    background-image: $color-white;
+}

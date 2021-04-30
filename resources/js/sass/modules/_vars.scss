@@ -1,0 +1,36 @@
+$website-color: #0f8b39;
+$color-white: white;
+
+$header-fonts: League Gothic;
+
+$break-large: 1240px;
+$break-small: 992px;
+$break-mobile-big: 540px;
+
+
+/* Browse timeline */
+
+$background: #f7f7f7;
+$box-shadow: 0px 1px 22px 4px rgba(0, 0, 0, 0.07);
+$border: 1px solid rgba(191, 191, 191, 0.4);
+$items: 20;
+$rows: ceil($items/2);
+
+/* Card sizing */
+
+$card-height: 400px;
+$card-width: 450px;
+$inner-margin: 15px;
+$number-size: 35px;
+$stagger: 180px;
+$outer-margin: 90px;
+$marker-size: 9px;
+
+/* Colors */
+
+$steps: #46b8e9;
+$colors: #46b8e9,
+#3ee9d1,
+#0f8b39,
+#4d92eb;
+$timeline: #bdbdbd;
